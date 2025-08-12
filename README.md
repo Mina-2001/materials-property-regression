@@ -1,4 +1,4 @@
-# materials-property-regression
+# Materials-Property-Regression
 
 This project focuses on the exploratory data analysis and regression modelling of material property datasets. The aim is to investigate the relationships between various chemical and physical features, clean and visualise the data, and build predictive models using Python.
 
